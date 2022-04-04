@@ -3,7 +3,8 @@
 using namespace std;
 int main()
 {
-	int num = 2,rem = 10,power = 2;
+	int num = 2
+	,rem = 10,power = 2;
 	//cin>>num;
 	while(num!=0)
 	{
